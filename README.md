@@ -2,7 +2,7 @@
 
 <div>
    <a href="https://github.com/rafaalathais">
-   <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=rafaalathais&layout=compact&langs_count=8&theme=cobalt"/></a>
+   <img height="200" src="https://github-stats-extended.vercel.app/api/top-langs/?username=rafaalathais&layout=compact&langs_count=10&theme=cobalt&hide=Jupyter%20Notebook"/></a>
 </div>
      
 <div style="display: inline_block"><br>
